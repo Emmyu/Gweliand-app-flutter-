@@ -1,0 +1,41 @@
+final Map<String, String> enUs = <String, String>{
+  // Main Page Screen
+  'lbl_155_usd': r'$155 USD',
+  'lbl_1_20_usd': r'$1.20 USD',
+  'lbl_1_5': '+1.5%',
+  'lbl_1_8': '+1.8%',
+  'lbl_2_5': '+2.5%',
+  'lbl_2_7': '-2.7%',
+  'lbl_3_2': '-3.2%',
+  'lbl_3_800_usd': r'$3,800 USD',
+  'lbl_450_usd': r'$450 USD',
+  'lbl_4_1': '-4.1%',
+  'lbl_55_000_usd': r'$55,000 USD',
+  'lbl_ada': 'ADA',
+  'lbl_binance_coin': 'Binance Coin',
+  'lbl_bitcoin': 'Bitcoin',
+  'lbl_bnb': 'BNB',
+  'lbl_btc': 'BTC',
+  'lbl_cardano': 'Cardano',
+  'lbl_cryptocurrency': 'Cryptocurrency',
+  'lbl_eth': 'ETH',
+  'lbl_ethereum': 'Ethereum',
+  'lbl_exchanges': 'Exchanges',
+  'lbl_filter': 'Filter',
+  'lbl_nft': 'NFT',
+  'lbl_ripple': 'Ripple',
+  'lbl_sol': 'SOL',
+  'lbl_solana': 'Solana',
+  'lbl_view_all': 'View All',
+  'lbl_xrp': 'XRP',
+  'msg_search_cryptocurrency': 'Search Cryptocurrency',
+  'msg_top_cryptocurrencies': 'Top Cryptocurrencies',
+
+  // Main Page - Container Screen
+  'lbl_exchange': 'Exchange', 'lbl_hop': r'€-$hop',
+  'lbl_launchpads': 'Launchpads', 'lbl_wallet': 'Wallet',
+
+// Network Error String
+  'msg_network_err': 'Network Error',
+  'msg_something_went_wrong': 'Something Went Wrong!',
+};
